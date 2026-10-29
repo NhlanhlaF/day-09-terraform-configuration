@@ -1,0 +1,5 @@
+Academy: MZ-UCA Cloud Academy
+Student: Nhlanhla Fortunate Mbele
+Environment: assessment
+Project: academy-assessment
+Description: MZ-UCA Cloud Academy Terraform Training Environment
