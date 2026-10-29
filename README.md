@@ -43,8 +43,8 @@ locals and data sources.
 ## Evidence
 List the screenshots and files submitted with the project.
 
-![Initializing Terraform](screenshots/Lab_02_Understanding_terraform_Variables_04.png)
-![Validating Terraform](screenshots/Lab_02_Underswtanding_Terraform_Variables_05.png)
+![Initializing Terraform](screenshots/Lab_02_Understanding_Terraform_Variables_04.png)
+![Validating Terraform](screenshots/Lab_02_Understanding_Terraform_Variables_05.png)
 ![Terraform Plan](screenshots/Lab_02_Understanding_Terraform_Variables_06.png)
 ![Terraform Apply](screenshots/Lab_02_Understanding_Terraform_Variables_07.png)
 ![Editing Variable tf File](screenshots/Lab_02_Understanding_Terraform_Variables_09.png)
@@ -56,7 +56,7 @@ List the screenshots and files submitted with the project.
 ![Terraform Apply Command](screenshots/Lab_03_Understanding_Terraform_Outputs_Part_03.png)
 ![Terraform Output Command](screenshots/Lab_03_Understanding_Terraform_Outputs_Part_04.png)
 ![Terraform Output Academy file](screenshots/Lab_03_Understanding_Terraform_Outputs_Part_06.png)
-![Editing Locals tf File](screenshots/Lab_04_Understaing_Terraform_Locals_Part_06[[1]]].png)
+![Editing Locals tf File](screenshots/Lab_04_Understaing_Terraform_Locals_Part_06[[1]].png)
 ![Editing Main tf File](screenshots/Lab_04_Understaing_Terraform_Locals_Part_02[[1]].png)
 ![Validating Terraform in Locals](screenshots/Lab_04_Understaing_Terraform_Locals_Part_03[[1]].png)
 ![Modifying Locals tf File](screenshots/Lab_04_Understaing_Terraform_Locals_Part_06[[1]].png)
